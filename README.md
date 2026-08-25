@@ -2,9 +2,7 @@
 
 A modern, responsive personal portfolio website showcasing my frontend development skills, projects, experience, and technical journey.
 
-## 🌐 Live Demo
-
-**Coming soon**
+🌐 **Live Portfolio:** https://my-portfolio-ten-peach-61.vercel.app/
 
 ## 👩‍💻 About
 
