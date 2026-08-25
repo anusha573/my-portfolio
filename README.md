@@ -71,7 +71,7 @@ Make sure you have **Node.js** and **npm** installed.
 Clone the repository:
 
 ```bash
-git clone <your-github-repository-url>
+git clone <https://github.com/anusha573/my-portfolio.git>
 ```
 
 Navigate to the project:
