@@ -240,6 +240,9 @@ const handleSubmit = async () => {
     successMessage.value = "Thanks! Your message has been sent successfully.";
 
     resetForm();
+    setTimeout(() => {
+      successMessage.value = "";
+    }, 5000);
   } catch (error) {
     console.error("Form submission error:", error);
 

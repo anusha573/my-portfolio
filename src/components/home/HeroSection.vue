@@ -25,7 +25,7 @@
 
         <!-- CV -->
         <div class="cv-button-wrapper">
-          <a href="/Anusha-Kodamala-CV.pdf" download class="cv-button">
+          <a href="\Anusha_Kodamala_Frontend_Developer_Resume.pdf" download class="cv-button">
             Download CV
             <span>↓</span>
           </a>

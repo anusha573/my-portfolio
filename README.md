@@ -1,6 +1,6 @@
 # Anusha Kodamala — Frontend Developer Portfolio
 
-A modern, responsive personal portfolio website showcasing my frontend development skills, projects, experience, and technical journey.
+A modern, responsive personal portfolio website showcasing my frontend development skills, professional experience, selected projects, and technical journey.
 
 🌐 **Live Portfolio:** https://my-portfolio-ten-peach-61.vercel.app/
 
@@ -8,7 +8,7 @@ A modern, responsive personal portfolio website showcasing my frontend developme
 
 Hi, I'm **Anusha Kodamala**, a Frontend Developer passionate about building responsive, user-friendly, and interactive web applications.
 
-This portfolio highlights my technical skills, selected projects, and experience with modern frontend technologies.
+This portfolio highlights my technical skills, professional experience, selected projects, and hands-on work with modern frontend technologies.
 
 ## 🛠️ Technologies
 
@@ -19,6 +19,8 @@ This portfolio highlights my technical skills, selected projects, and experience
 * Vue.js
 * Nuxt.js
 * Tailwind CSS
+* Bootstrap
+* REST APIs
 * Vite
 * Git & GitHub
 
@@ -26,19 +28,21 @@ This portfolio highlights my technical skills, selected projects, and experience
 
 * Responsive design for desktop, tablet, and mobile
 * Modern and clean user interface
-* Dark/Light theme
+* Dark and Light theme support
+* Scroll reveal animations
 * About section
-* Skills section
-* Projects showcase
-* Interactive games section
-* Contact section
+* Skills showcase
+* Professional projects showcase
+* Interactive number guessing game
+* Functional contact form with validation
 * LinkedIn and GitHub integration
+* Downloadable resume
 
 ## 📂 Portfolio Sections
 
 ### Hero
 
-Introduction and quick overview with links to my professional profiles.
+Introduction and quick overview with links to my professional profiles and resume.
 
 ### About
 
@@ -46,19 +50,24 @@ A brief introduction about my background and frontend development journey.
 
 ### Skills
 
-A showcase of my frontend development technologies and tools.
+A showcase of my frontend development technologies, frameworks, and tools.
 
 ### Projects
 
-Selected projects demonstrating my development skills and practical experience.
+Selected professional projects I contributed to, including:
+
+* **Stark.ai** — AI Career Platform
+* **CRM.io** — CRM & Sales Platform
+* **VoxDesk** — Campaign Management Platform
+* **PBXPlus** — Cloud Telephony Platform
 
 ### Games
 
-Interactive JavaScript-based games demonstrating programming logic and DOM interaction.
+An interactive JavaScript-based number guessing game demonstrating programming logic, state handling, and user interaction.
 
 ### Contact
 
-Contact information and social links for professional opportunities.
+Contact information, social profile links, and a functional contact form with client-side validation.
 
 ## 🚀 Getting Started
 
@@ -71,7 +80,7 @@ Make sure you have **Node.js** and **npm** installed.
 Clone the repository:
 
 ```bash
-git clone <https://github.com/anusha573/my-portfolio.git>
+git clone https://github.com/anusha573/my-portfolio.git
 ```
 
 Navigate to the project:
@@ -110,8 +119,9 @@ npm run build
 my-portfolio/
 ├── public/
 ├── src/
-│   ├── components/
 │   ├── assets/
+│   ├── components/
+│   ├── composables/
 │   ├── App.vue
 │   └── main.ts
 ├── index.html
@@ -131,13 +141,20 @@ The portfolio is designed to provide a consistent experience across:
 
 ## 🔗 Connect With Me
 
-* **LinkedIn:** https://www.linkedin.com/in/anusha-kodamala-766926208
-* **GitHub:** https://github.com/anusha573
+<a href="https://www.linkedin.com/in/anusha-kodamala-766926208/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://github.com/anusha573">
+  <img src="https://img.shields.io/badge/GitHub-anusha573-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<a href="https://my-portfolio-ten-peach-61.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
 
 ## 📄 License
 
 This project is created for personal portfolio and professional showcase purposes.
-
----
 
 ⭐ If you find this portfolio interesting, feel free to explore the projects and connect with me!
